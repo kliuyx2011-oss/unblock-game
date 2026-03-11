@@ -1,0 +1,58 @@
+[
+  {
+    "id": "slope",
+    "title": "Slope",
+    "thumbnail": "https://picsum.photos/seed/slope/400/250",
+    "url": "https://kdata1.com/2020/05/slope/",
+    "category": "Action"
+  },
+  {
+    "id": "tunnel-rush",
+    "title": "Tunnel Rush",
+    "thumbnail": "https://picsum.photos/seed/tunnel/400/250",
+    "url": "https://kdata1.com/2020/05/tunnel-rush/",
+    "category": "Action"
+  },
+  {
+    "id": "retro-bowl",
+    "title": "Retro Bowl",
+    "thumbnail": "https://picsum.photos/seed/retrobowl/400/250",
+    "url": "https://game316087.konggames.com/game_2.html",
+    "category": "Sports"
+  },
+  {
+    "id": "1v1-lol",
+    "title": "1v1.LOL",
+    "thumbnail": "https://picsum.photos/seed/1v1/400/250",
+    "url": "https://1v1.lol/",
+    "category": "Shooter"
+  },
+  {
+    "id": "bitlife",
+    "title": "BitLife",
+    "thumbnail": "https://picsum.photos/seed/bitlife/400/250",
+    "url": "https://bitlifeonline.io/",
+    "category": "Simulation"
+  },
+  {
+    "id": "cookie-clicker",
+    "title": "Cookie Clicker",
+    "thumbnail": "https://picsum.photos/seed/cookie/400/250",
+    "url": "https://orteil.dashnet.org/cookieclicker/",
+    "category": "Idle"
+  },
+  {
+    "id": "minecraft-classic",
+    "title": "Minecraft Classic",
+    "thumbnail": "https://picsum.photos/seed/minecraft/400/250",
+    "url": "https://classic.minecraft.net/",
+    "category": "Sandbox"
+  },
+  {
+    "id": "geometry-dash",
+    "title": "Geometry Dash",
+    "thumbnail": "https://picsum.photos/seed/geometry/400/250",
+    "url": "https://geometrydash.io/",
+    "category": "Platformer"
+  }
+]
